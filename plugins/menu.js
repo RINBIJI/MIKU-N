@@ -77,6 +77,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╰═══════════════
 
 ╭════•›「 info」
+
 ╿ Owner: wa.me/6285768105325
 ╿ grup :
 ╿ https://chat.whatsapp.com/FcfJQoNYGyI4h9F3BjI3gu
